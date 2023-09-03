@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Zendy2.Views.MainPage"
+             Title="Master" BackgroundColor="#269536">
+
+    <StackLayout BackgroundColor="#029316">
+        <Label Text="La Delicia" FontSize="40" FontAttributes="Bold" Margin="0,20,0,0" HorizontalOptions="Center"/>
+        <Frame VerticalOptions="FillAndExpand" Margin="20" CornerRadius="20" HasShadow="False">
+            <StackLayout VerticalOptions="Center"
+                 Spacing="20">
+                <Button Text="Registrar" TextTransform="None" BackgroundColor="#6DB177" CornerRadius="8" FontSize="Medium" 
+                        FontAttributes="Bold" x:Name="btnregistro" Clicked="btnregistro_Clicked"/>
+
+                <Button Text="Editar" TextTransform="None" BackgroundColor="#6DB177" CornerRadius="8" FontSize="Medium" 
+                        FontAttributes="Bold" x:Name="btneditar" Clicked="btneditar_Clicked"/>
+
+                <Button Text="Listar" TextTransform="None" BackgroundColor="#6DB177" CornerRadius="8" FontSize="Medium" 
+                        FontAttributes="Bold" x:Name="btnlistar" Clicked="btnlistar_Clicked"/>
+
+                <Button Text="Eliminar" TextTransform="None" BackgroundColor="#6DB177" CornerRadius="8" FontSize="Medium" 
+                        FontAttributes="Bold" x:Name="btneliminar" Clicked="btneliminar_Clicked"/>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

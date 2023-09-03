@@ -1,0 +1,17 @@
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\bin\Debug\netstandard2.0\Zendy2.deps.json
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\bin\Debug\netstandard2.0\Zendy2.dll
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\bin\Debug\netstandard2.0\ref\Zendy2.dll
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\bin\Debug\netstandard2.0\Zendy2.pdb
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\obj\Debug\netstandard2.0\Zendy2.csproj.AssemblyReference.cache
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\obj\Debug\netstandard2.0\Zendy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\obj\Debug\netstandard2.0\Zendy2.AssemblyInfoInputs.cache
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\obj\Debug\netstandard2.0\Zendy2.AssemblyInfo.cs
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\obj\Debug\netstandard2.0\Zendy2.csproj.CoreCompileInputs.cache
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\obj\Debug\netstandard2.0\Zendy2.dll
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\obj\Debug\netstandard2.0\refint\Zendy2.dll
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\obj\Debug\netstandard2.0\Zendy2.pdb
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\obj\Debug\netstandard2.0\Views\Lateral.xaml.g.cs
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\hiosm\source\repos\Zendy2\Zendy2\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs

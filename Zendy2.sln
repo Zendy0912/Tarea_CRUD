@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zendy2.Android", "Zendy2.Android\Zendy2.Android.csproj", "{656AF491-3219-476E-9A25-D540FC0C4AA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zendy2", "Zendy2\Zendy2.csproj", "{074EEC10-2513-4EBB-8694-14377DF13FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{656AF491-3219-476E-9A25-D540FC0C4AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656AF491-3219-476E-9A25-D540FC0C4AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656AF491-3219-476E-9A25-D540FC0C4AA9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{656AF491-3219-476E-9A25-D540FC0C4AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656AF491-3219-476E-9A25-D540FC0C4AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{656AF491-3219-476E-9A25-D540FC0C4AA9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{074EEC10-2513-4EBB-8694-14377DF13FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074EEC10-2513-4EBB-8694-14377DF13FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074EEC10-2513-4EBB-8694-14377DF13FDC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{074EEC10-2513-4EBB-8694-14377DF13FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074EEC10-2513-4EBB-8694-14377DF13FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074EEC10-2513-4EBB-8694-14377DF13FDC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBC6F89F-D025-4788-99BF-A080B84BCAFF}
+	EndGlobalSection
+EndGlobal
